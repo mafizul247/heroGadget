@@ -16,7 +16,7 @@ hereGet is a modern e-commerce website that leverages the latest technologies to
 
 ## Live Site
 
-Visit the live site [here](https://github.com/mafizul247/heroGadget.git).
+Visit the live site [here](https://roaring-jelly-100461.netlify.app/).
 
 ## Repository
 
